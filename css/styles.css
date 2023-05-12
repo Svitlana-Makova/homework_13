@@ -19,7 +19,7 @@ body {
   margin-left: 30px;
   border-radius: 100%;
   display: inline-flex;
-  animation: loader 1.8s infinite ease-in-out ;
+  animation: loader 2s infinite ease-in-out ;
      
 }
  
